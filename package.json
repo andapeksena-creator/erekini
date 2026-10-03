@@ -1,0 +1,7 @@
+{
+  "name": "rekins-e-rekins",
+  "private": true,
+  "type": "module",
+  "scripts": { "start": "node server.mjs" },
+  "dependencies": { "busboy": "^1.6.0" }
+}
